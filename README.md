@@ -1,2 +1,2 @@
-# DiamondsR4ever2
+# DiamondsR4ever
 Mispricing the Diamond Market 
